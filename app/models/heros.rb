@@ -12,5 +12,6 @@ class Heros
   end
 
   def all
+    @@all
   end
 end
